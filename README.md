@@ -16,7 +16,7 @@
    - Other popular tracks include **"The Return of the King" (64M)** and **"The Fellowship Reunited" (45M)**.  
 
 ### 4. Listening Trends Over Time:
-   - There was a peak in listening time between **2019 and 2021**, with a maximum of **3,341M milliseconds played** in **2020**.  
+   - There was a peak in listening time between **2020 and 2021**, with a maximum of **3,341M milliseconds played** in **2020**.  
    - Listening time has declined post-2021, with **1,738M milliseconds played** in **2024**.  
 
 ### 5. Platform Usage:
@@ -27,7 +27,7 @@
    - **"Ode to the Mets"** is the most skipped track (**207 skips**), followed by **"In the Blood" (181 skips)** and **"Dying Breed" (166 skips)**.  
 
 ### 7. Start & End Reasons:
-   - Most tracks start due to **trackdone** (1,481M milliseconds played).  
-   - The primary track-ending reason is **trackdone** (1,688M milliseconds played), followed by **fwdbtn (1,031M)**.  
+   - Most tracks start due to **trackdone** (1,4810M milliseconds played).  
+   - The primary track-ending reason is **trackdone** (1,6882M milliseconds played), followed by **fwdbtn (1,031M)**.  
 
 This analysis highlights key trends in music listening behavior, helping identify popular artists, platforms, and engagement patterns for potential business strategies and focus areas.
