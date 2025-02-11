@@ -16,7 +16,7 @@
    - Other popular tracks include **"The Return of the King" (64M)** and **"The Fellowship Reunited" (45M)**.  
 
 ### 4. Listening Trends Over Time:
-   - There was a peak in listening time between **2020 and 2021**, with a maximum of **3,341M milliseconds played** in **2020**.  
+   - There was a peak in listening time in **2020 and 2021**, with a maximum of **3,341M milliseconds played** in **2020**.  
    - Listening time has declined post-2021, with **1,738M milliseconds played** in **2024**.  
 
 ### 5. Platform Usage:
