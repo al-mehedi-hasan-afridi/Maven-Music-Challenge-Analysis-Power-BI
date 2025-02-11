@@ -1,0 +1,10 @@
+Every December, millions of Spotify users look forward to their Spotify Wrapped – a 
+personalized recap showcasing their listening habits over the past year.
+
+Wrapped has become a social and cultural phenomenon, including breakdowns of listeners' 
+most-streamed artists and tracks, total minutes listened, personalized playlists, and even
+video messages from artists to their top fans.
+
+For the Maven Music Challenge, your task is to create your own version of Spotify Wrapped, 
+by downloading your streaming history or using the sample dataset provided (if you aren't 
+a Spotify user).
